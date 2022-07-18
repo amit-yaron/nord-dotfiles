@@ -23,6 +23,7 @@
 
 ## Optional
 - [Google Chrome Nord Theme](https://chrome.google.com/webstore/detail/nord/abehfkkfjlplnjadfcjiflnejblfmmpj?hl=en-GB)
+- [Nord Material Wallpaper](https://preview.redd.it/krjef9fchcx61.jpg?width=3200&format=pjpg&auto=webp&s=689d9e1d838ebf172f0fb9b3c3744c39d5c9c867)
 
 ## Installation
 - Install All The Packages Above
