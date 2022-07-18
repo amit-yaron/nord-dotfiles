@@ -1,5 +1,8 @@
 # Nord Material Theme Dotfiles
 
+# Cool Feature(s):
+- Two Polybars For Dual Monitors
+
 ## Required Packages:
 - Source Code Pro
 - rxvt-unicode
