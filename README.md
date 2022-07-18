@@ -21,6 +21,9 @@
 - mojave-ct-icon-theme
 - [Polybar Minimal Nord Theme](https://github.com/Wabri/polybar-minimal-nord-theme)
 
+## Optional
+- [Google Chrome Nord Theme](https://chrome.google.com/webstore/detail/nord/abehfkkfjlplnjadfcjiflnejblfmmpj?hl=en-GB)
+
 ## Installation
 - Install All The Packages Above
 - Clone Repository Into ~ Folder
