@@ -19,3 +19,4 @@
 - [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 - nordic-bluish-theme-git
 - mojave-ct-icon-theme
+- [Polybar Minimal Nord Theme](https://github.com/Wabri/polybar-minimal-nord-theme)
