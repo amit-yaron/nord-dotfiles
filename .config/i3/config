@@ -12,7 +12,7 @@ floating_modifier $super
 exec --no-startup-id feh --bg-scale ~/.wallpaper.png
 exec --no-startup-id xsettingsd &
 exec --no-startup-id compton -b
-exec --no-startup-id bash ~/.config/polybar/launch.sh
+exec --no-startup-id bash ~/polybar-collection/launch.sh
 
 # start a terminal
 bindsym $super+Return exec urxvt -e sh -c "fish"

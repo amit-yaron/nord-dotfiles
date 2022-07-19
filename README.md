@@ -1,9 +1,6 @@
 # Nord Material Theme Dotfiles
 
-# Cool Feature(s):
-- Two Polybars For Dual Monitors
-
-## Required Packages:
+# Required Packages:
 - Source Code Pro
 - rxvt-unicode
 - fish
@@ -22,7 +19,6 @@
 - [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 - nordic-bluish-theme-git
 - mojave-ct-icon-theme
-- [Polybar Minimal Nord Theme](https://github.com/Wabri/polybar-minimal-nord-theme)
 
 ## Optional
 - [Google Chrome Nord Theme](https://chrome.google.com/webstore/detail/nord/abehfkkfjlplnjadfcjiflnejblfmmpj?hl=en-GB)
