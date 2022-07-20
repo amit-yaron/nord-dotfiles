@@ -1,5 +1,9 @@
 # Nord Material Theme Dotfiles
 
+# Preview
+![Preview 1](preview1.png)
+![Preview 2](preview2.png)
+
 # Required Packages:
 - Source Code Pro
 - rxvt-unicode
