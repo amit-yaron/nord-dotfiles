@@ -13,7 +13,6 @@
 - nautilus
 - rofi
 - dunst
-- compton
 - flameshot
 - feh
 - lxappearance-gtk3
