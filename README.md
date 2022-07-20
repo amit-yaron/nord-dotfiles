@@ -1,8 +1,8 @@
 # Nord Material Theme Dotfiles
 
 # Preview
-![Preview 1](preview1.png)
-![Preview 2](preview2.png)
+<img src="preview1.png" alt="Preview 1" width="300"/>
+<img src="preview2.png" alt="Preview 2" width="300"/>
 
 # Required Packages:
 - Source Code Pro
