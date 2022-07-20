@@ -19,8 +19,7 @@
 - lxappearance-gtk3
 - i3lock
 - google-chrome-stable
-<br/>
-`yay -S adobe-source-code-pro-fonts rxvt-unicode fish i3-gaps polybar nautilus rofi dunst flameshot feh i3lock google-chrome lxappearance-gtk3`
+- `yay -S adobe-source-code-pro-fonts rxvt-unicode fish i3-gaps polybar nautilus rofi dunst flameshot feh i3lock google-chrome lxappearance-gtk3`
 
 # Polybar Required Packages:
 - nerd-fonts-jetbrains-mono
